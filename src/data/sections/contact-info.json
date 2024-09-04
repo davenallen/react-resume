@@ -1,0 +1,60 @@
+{
+    "title": "Contact information",
+    "items": [
+        {
+            "info": [
+                {
+                    "label": "Country",
+                    "value": "USA"
+                },
+                {
+                    "label": "City",
+                    "value": "Denver"
+                },
+                {
+                    "label": "Streat",
+                    "value": "20 Dellbank Rd"
+                }
+            ]
+        },
+        {
+            "info": [
+                {
+                    "label": "Email",
+                    "value": "david@davidnallen.com"
+                },
+                {
+                    "label": "Skype",
+                    "value": "davenallen1994"
+
+                }
+            ]
+        },
+        {
+            "info": [
+                {
+                    "label": "Personal",
+                    "value": "Email for "
+                },
+                {
+                    "elmType": "a",
+                    "attributes": {
+                      "iconName": "Mail",
+                      "class": "sp-field-quickActions",
+                      "href": {
+                        "operator": "+",
+                        "operands": [
+                          "mailto:",
+                          "david.nathan.allen@gmail.com",
+                          "?subject=Interest in donasesertion ",
+                          "Contact David Allen",
+                          "&body=text goes here<br>",
+                          "[$Category.value]"
+                        ]
+                      }
+                    }
+                  }
+            ]
+        }
+    ]
+}
